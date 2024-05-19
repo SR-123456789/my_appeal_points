@@ -31,7 +31,13 @@
       * Cordova
     * 機能説明
       * TODOリストは数え切れない数が存在するが、ここのタスクの進捗状態を記録するものが存在せず、それぞれのタスクの進捗状態を管理するアプリが欲しかったため開発しました。
-
+    
+* **english-to-katakana-conversion**
+  * [GitHub](https://github.com/soshi1234/english-to-katakana-conversion?tab=readme-ov-file)
+    * 機能説明
+      * 英単語を引数にして、読み方をカタカナで返してくれるJavascriptライブラリー
+     
+      
 
 ### 製作物（団体) 
 * 団体名：歩くアルパカ制作委員会

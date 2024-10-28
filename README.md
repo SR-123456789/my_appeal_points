@@ -22,17 +22,6 @@
     * SNS
       * [Instagram](https://www.instagram.com/badeaytranslater/?hl=ja) 
 
-    　   
-* **[ToDoリスト]どれだけ進んだのか一目でわかる**
-  * [GooglePlay](https://play.google.com/store/apps/details?id=todo.list.v1)
-  * [AppleStore]([https://play.google.com/store/apps/details?id=todo.list.v1](https://apps.apple.com/jp/app/%E3%81%A9%E3%82%8C%E3%81%A0%E3%81%91%E9%80%B2%E3%82%93%E3%81%A0%E3%81%8B%E4%B8%80%E7%9B%AE%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Btodo%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%BF%E3%82%B9%E3%82%AF%E9%80%B2%E6%8D%97%E7%AE%A1%E7%90%86/id6560114498))
-    * プレームワーク・ライブラリ・APIなど
-      * Monaca
-      * jQuery
-      * Cordova
-    * 機能説明
-      * TODOリストは数え切れない数が存在するが、ここのタスクの進捗状態を記録するものが存在せず、それぞれのタスクの進捗状態を管理するアプリが欲しかったため開発しました。
-     
 * **ドアベルセンサー[DoorBellSensor] **
   * [AppleStore]([[https://play.google.com/store/apps/details?id=todo.list.v1](https://apps.apple.com/jp/app/%E3%81%A9%E3%82%8C%E3%81%A0%E3%81%91%E9%80%B2%E3%82%93%E3%81%A0%E3%81%8B%E4%B8%80%E7%9B%AE%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Btodo%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%BF%E3%82%B9%E3%82%AF%E9%80%B2%E6%8D%97%E7%AE%A1%E7%90%86/id6560114498)](https://apps.apple.com/us/app/%E3%83%89%E3%82%A2%E3%83%99%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-doorbellsensor/id6736841798))
     * プレームワーク・ライブラリ・APIなど
@@ -41,6 +30,17 @@
       * クライアント側での人体検知の精度をためしたかったため、開発
       * スマホのカメラを使用し、人を検知した時にチャイムオンを再生する。
       * 今後は、警報機能や不審者撮影機能、人数カウント機能を追加予定
+    　   
+* **[ToDoリスト]どれだけ進んだのか一目でわかる**
+  * [GooglePlay](https://play.google.com/store/apps/details?id=todo.list.v1)
+  * [AppleStore]([https://play.google.com/store/apps/details?id=todo.list.v1](https://apps.apple.com/jp/app/%E3%81%A9%E3%82%8C%E3%81%A0%E3%81%91%E9%80%B2%E3%82%93%E3%81%A0%E3%81%8B%E4%B8%80%E7%9B%AE%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Btodo%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%BF%E3%82%B9%E3%82%AF%E9%80%B2%E6%8D%97%E7%AE%A1%E7%90%86/id6560114498))
+    * プレームワーク・ライブラリ・APIなど
+      * Monaca(Android)
+      * ReactNative(IOS)
+      * jQuery
+      * Cordova
+    * 機能説明
+      * TODOリストは数え切れない数が存在するが、ここのタスクの進捗状態を記録するものが存在せず、それぞれのタスクの進捗状態を管理するアプリが欲しかったため開発しました。
     
 * **english-to-katakana-conversion**
   * [GitHub](https://github.com/soshi1234/english-to-katakana-conversion?tab=readme-ov-file)

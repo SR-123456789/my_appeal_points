@@ -2,8 +2,8 @@
 ## 立命館大学 理工学部 ロボティクス学科3回生 中谷壮志
 
 ### 特にアピールしたいもの
-#### [**BadEasyTranslater**](https://apps.apple.com/jp/app/%E8%88%88%E5%91%B3%E3%81%AE%E3%81%82%E3%82%8B%E6%96%87%E7%AB%A0%E3%81%A7%E8%8B%B1%E8%AA%9E%E5%AD%A6%E7%BF%92badeasytranslater/id6502329660)
 #### [**サークル公式サイト**](https://aruku-arupaka-organization.vercel.app/) <br/>
+#### [**BadEasyTranslater**](https://apps.apple.com/jp/app/%E8%88%88%E5%91%B3%E3%81%AE%E3%81%82%E3%82%8B%E6%96%87%E7%AB%A0%E3%81%A7%E8%8B%B1%E8%AA%9E%E5%AD%A6%E7%BF%92badeasytranslater/id6502329660)
 
 
 ### 製作物（個人）

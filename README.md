@@ -25,22 +25,37 @@
     　   
 * **[ToDoリスト]どれだけ進んだのか一目でわかる**
   * [GooglePlay](https://play.google.com/store/apps/details?id=todo.list.v1)
+  * [AppleStore]([https://play.google.com/store/apps/details?id=todo.list.v1](https://apps.apple.com/jp/app/%E3%81%A9%E3%82%8C%E3%81%A0%E3%81%91%E9%80%B2%E3%82%93%E3%81%A0%E3%81%8B%E4%B8%80%E7%9B%AE%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Btodo%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%BF%E3%82%B9%E3%82%AF%E9%80%B2%E6%8D%97%E7%AE%A1%E7%90%86/id6560114498))
     * プレームワーク・ライブラリ・APIなど
       * Monaca
       * jQuery
       * Cordova
     * 機能説明
       * TODOリストは数え切れない数が存在するが、ここのタスクの進捗状態を記録するものが存在せず、それぞれのタスクの進捗状態を管理するアプリが欲しかったため開発しました。
+     
+* **ドアベルセンサー[DoorBellSensor] **
+  * [AppleStore]([[https://play.google.com/store/apps/details?id=todo.list.v1](https://apps.apple.com/jp/app/%E3%81%A9%E3%82%8C%E3%81%A0%E3%81%91%E9%80%B2%E3%82%93%E3%81%A0%E3%81%8B%E4%B8%80%E7%9B%AE%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Btodo%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%BF%E3%82%B9%E3%82%AF%E9%80%B2%E6%8D%97%E7%AE%A1%E7%90%86/id6560114498)](https://apps.apple.com/us/app/%E3%83%89%E3%82%A2%E3%83%99%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-doorbellsensor/id6736841798))
+    * プレームワーク・ライブラリ・APIなど
+      * Swift UI
+    * 機能説明
+      * クライアント側での人体検知の精度をためしたかったため、開発
+      * スマホのカメラを使用し、人を検知した時にチャイムオンを再生する。
+      * 今後は、警報機能や不審者撮影機能、人数カウント機能を追加予定
     
 * **english-to-katakana-conversion**
   * [GitHub](https://github.com/soshi1234/english-to-katakana-conversion?tab=readme-ov-file)
     * 機能説明
       * 英単語を引数にして、読み方をカタカナで返してくれるJavascriptライブラリー
      
+* **reactnative-front-ocr**
+  * ReactNarive環境でクライアントサイドでOCRを行うことを目標に開発中のライブラリー
+  * GoogleVision API が高額なため開発することにしました。
+  * Swiftで書いたネイティブモジュールをブリッジさせ、ReactNative環境で実行させることを目標にしています。
+     
       
 
 ### 製作物（団体) 
-* 団体名：歩くアルパカ制作委員会
+* 団体名：歩くアルパカ制作委員会 [公式サイト（私が作成しました）](https://aruku-arupaka-organization.vercel.app/)
 * 私の役職
   * 代表
    * 歩くアルパカ+RのPM
@@ -50,6 +65,7 @@
      * 企画
   * プロジェクト
     * 歩くアルパカ+R
+      * 私の役割　タスク割り振り・コーディング
       * 開発目的
         * 大学生に役立つアプリを開発する。
       * プレームワーク・ライブラリ・APIなど
@@ -62,5 +78,14 @@
         * [IOS](https://apps.apple.com/jp/app/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E3%82%A2%E3%83%97%E3%83%AA-for-%E7%AB%8B%E5%91%BD%E9%A4%A8-%E6%AD%A9%E3%81%8F%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB-r/id6499567971)
         * Androidは審査中
         * [旧版(Android)](https://play.google.com/store/apps/details?id=cordova.arupaka)
-    * Ritsumati
-    * 生産部門
+    * リツフレ
+      * 私の役割　チャット周りのコーディング
+      * 開発目的
+        *　学内SNS
+      * プレームワーク・ライブラリ・APIなど
+        * ReactNative
+        * DRF
+        * FireBase
+        * Render
+        * 
+    * AI部門

@@ -55,6 +55,11 @@
     * 機能説明
       * 英単語を引数にして、読み方をカタカナで返してくれるJavascriptライブラリー
      
+* ** react-native-header-arupaka-r
+   * [Zenn]([https://github.com/soshi1234/english-to-katakana-conversion?tab=readme-ov-file](https://zenn.dev/ritsumei_arupak/articles/3b4d6a4c086c83))
+   * 機能説明
+   * 上スクロールでヘッダーが隠れるアニメーションをつけることができるヘッダー
+     
 * **reactnative-front-ocr**
   * ReactNarive環境でクライアントサイドでOCRを行うことを目標に開発中のライブラリー
   * GoogleVision API が高額なため開発することにしました。
@@ -95,5 +100,5 @@
         * DRF
         * FireBase
         * Render
-        * 
+          
     * AI部門
